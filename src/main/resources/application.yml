@@ -8,3 +8,6 @@ spring:
     show-sql: true
   jackson:
     default-property-inclusion: non_null
+server:
+  servlet:
+    context-path: /weshop
